@@ -1,5 +1,4 @@
-Crop Production Analysis in India
-Overview
+
 This project provides an in-depth analysis of crop production data in India. Using data science tools such as Python and Tableau, we explore trends, key indicators, and seasonal impacts on crop production across different states and crops.
 
 Features
